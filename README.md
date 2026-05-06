@@ -63,9 +63,9 @@ build.bat
 
 ## 🛠️ <a id="how-to-customize"></a>How to Customize (Code Example)
 
-Because we wanted to make game development accessible, you don't need to write complex logic to add a new character or scene. The game is driven entirely by `JSON` data!
+Because we wanted to make game development an accessible learning experience, you don't need to write complex logic to customize characters or scenes. The game is highly customizable and driven entirely by `JSON` data! This allows you to actively learn how data structures work behind the scenes, gaining new knowledge while playing and enjoying the game.
 
-Here is an example of how easy it is to define a character in our `data/characters.json` file:
+Here is an example of how easy it is to customize a character in our `data/characters.json` file:
 ```json
 {
   "characters": [
