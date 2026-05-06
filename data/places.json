@@ -14,5 +14,25 @@
     "store": {
         "name": "Store",
         "image": "img/store.png"
+    },
+    "obstacle_course": {
+        "name": "Obstacle Course",
+        "image": "img/obstacle_course.png"
+    },
+    "bus_station": {
+        "name": "Bus Station",
+        "image": "img/bus_station.png"
+    },
+    "museum_lobby": {
+        "name": "Museum Lobby",
+        "image": "img/museum_lobby.png"
+    },
+    "museum_hall": {
+        "name": "Museum Hall",
+        "image": "img/museum_hall.png"
+    },
+    "museum_exhibit_gun": {
+        "name": "Antique Gun Exhibit",
+        "image": "img/museum_exhibit_gun.png"
     }
 }
