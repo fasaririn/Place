@@ -5,19 +5,28 @@
     "name":"Narrator"
   },
 
-  "alice":{
+  "teacher":{
     "poses":{
-      "default":"img/VN_chara001_neutral.png",
-      "happy":"img/VN_chara001_happy.png"
     },
-    "name":"Alice"
+    "name":"Teacher"
+  },
+  "girl":{
+    "poses":{
+      "default":"img/girl_happy.png",
+      "speaking":"img/girl_happy_speaking.png",
+      "nervous":"img/girl_nervous.png",
+      "nervous_speaking":"img/girl_nervous_speaking.png"
+    },
+    "name":"Girl"
   },
 
-  "bobby":{
+  "boy":{
     "poses":{
-      "default":"img/VN_chara002_neutral.png",
-      "happy":"img/VN_chara002_happy.png"
+      "default":"img/boy_happy.png",
+      "speaking":"img/boy_happy_speaking.png",
+      "nervous": "img/boy_nervous.png",
+      "nervous_speaking":"img/boy_nervous_speaking.png"
     },
-    "name":"Bobby"
+    "name":"Boy"
   }
 }

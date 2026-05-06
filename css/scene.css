@@ -1,9 +1,9 @@
 .character
 {
 	position:absolute;
-	width:200px;
+	width:268px;
 	height:500px;
-	left:500px;
+	left:600px;
 	top:30px;
 	background-repeat:no-repeat;
 }
@@ -16,17 +16,4 @@
 #container[character="default"] #characterName
 {
 	color:rgb(128, 232, 255);
-}
-#container[character="bobby"] #characterName
-{
-	color:rgb(255, 247, 128);
-}
-#container[character="alice"] #characterName
-{
-	color:rgb(255, 80, 150);
-}
-
-#container[place="street"] #placeName
-{
-	color: hotpink;
 }
